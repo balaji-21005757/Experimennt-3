@@ -1,4 +1,5 @@
-# Experiment-3
+# Experiment-2
+# JAVA PROGRAM TO FIND THE NUMBER OF DAYS IN A MONTH
 # AIM :
 To write a java program to find the number of days in a month
 # ALGORITHM :
